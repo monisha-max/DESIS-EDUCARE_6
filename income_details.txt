@@ -1,0 +1,18 @@
+income_from_salary: 12
+income_from_interest: 13
+rental_income_received: 12
+income_from_digital_assets: 12
+other_income: 12
+exempt_allowances: 12
+interest_home_loan_self_occupied: 12
+interest_home_loan_let_out: 12
+
+income_from_salary: 12
+income_from_interest: 13
+rental_income_received: 12
+income_from_digital_assets: 23
+other_income: 12
+exempt_allowances: 23
+interest_home_loan_self_occupied: 12
+interest_home_loan_let_out: 12
+
